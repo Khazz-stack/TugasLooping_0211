@@ -69,7 +69,10 @@ int main(){
                 inputAngka();
                 tampilHasilFibonacci();
                 break;
-    
+            
+            case 0:
+                cout << "Program selesai. Terima kasih!" << endl;
+                return 0;    
         }
     }
 }

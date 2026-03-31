@@ -3,3 +3,5 @@ using namespace std;
 
 int angka;
 int pilihan;
+
+bool cekPrima() {}

@@ -14,3 +14,7 @@ bool cekPrima() {
     }
     return true;
 }
+
+bool cekFibonacci(){
+    int a = 0, b = 1;
+}

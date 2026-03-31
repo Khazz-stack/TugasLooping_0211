@@ -60,7 +60,10 @@ int main(){
         tampilMenu();
 
         switch (pilihan){
-            
+             case 1:
+                inputAngka();
+                tampilHasilPrima();
+                break;
         }
     }
 }

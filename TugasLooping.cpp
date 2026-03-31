@@ -12,4 +12,5 @@ bool cekPrima() {
         if (angka % i == 0)  return false;
         i++;
     }
+    return true;
 }
